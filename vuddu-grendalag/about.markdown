@@ -6,7 +6,7 @@ permalink: /om-oss/
 
 ## Om Vuddu Grendalag
 
-Vuddu Grendalag ble stiftet i 2010 av en gruppe engasjerte beboere som ønsket å skape et bedre nærmiljø for alle i Vuddu-området. Siden den gang har vi vokst til å bli en viktig del av lokalsamfunnet, med over 200 medlemmer og en rekke aktiviteter og arrangementer gjennom året.
+Vuddu Grendalag har røtter langt tilbake i bygdas historie. Gjennom generasjoner har engasjerte beboere samlet seg for å skape et bedre nærmiljø for alle i Vuddu-området. I dag er vi en viktig del av lokalsamfunnet med en rekke aktiviteter og arrangementer gjennom året.
 
 ### Vår visjon
 
@@ -17,7 +17,7 @@ Vi jobber for et inkluderende, trygt og levende lokalmiljø der alle trives og f
 - **Fellesskap**: Vi tror på kraften i et sterkt fellesskap og jobber for å bringe folk sammen.
 - **Inkludering**: Alle er velkomne i Vuddu Grendalag, uansett alder, bakgrunn eller livssituasjon.
 - **Engasjement**: Vi oppmuntrer til aktivt engasjement i nærmiljøet og tror at alle kan bidra på sin måte.
-- **Bærekraft**: Vi jobber for et miljøvennlig og bærekraftig lokalsamfunn.
+- **Tradisjoner**: Vi holder lokale tradisjoner i hevd og skaper nye som bringer folk sammen.
 
 ### Styret
 

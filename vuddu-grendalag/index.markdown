@@ -5,8 +5,8 @@ layout: landing
 <section class="hero">
   <div class="container">
     <div class="hero-content">
-      <h1>Velkommen til Vuddu Grendalag</h1>
-      <p>Vi jobber for et bedre nærmiljø, sterkere fellesskap og trivsel for alle i Vuddu-området.</p>
+      <h1>Bli medlem i Vuddu Grendalag</h1>
+      <p>Vi jobber for et bedre nærmiljø, sterkere fellesskap og trivsel for alle i Vuddu-grenda.</p>
       <div class="hero-buttons">
         <a href="#bli-medlem" class="btn">Bli medlem</a>
         <a href="#aktiviteter" class="btn btn-secondary">Se våre aktiviteter</a>
@@ -19,7 +19,7 @@ layout: landing
   <div class="container">
     <div class="section-title">
       <h2>Om Vuddu Grendalag</h2>
-      <p>Vi er en lokal organisasjon som jobber for å skape et bedre nærmiljø for alle innbyggere i Vuddu-området.</p>
+      <p>Med røtter langt tilbake i bygdas historie, er vi en frivillig organisasjon av engasjerte beboere som sammen skaper et levende og inkluderende lokalsamfunn i Vuddu-grenda.</p>
     </div>
     <div class="features-grid">
       <div class="feature-card">
@@ -31,17 +31,17 @@ layout: landing
       </div>
       <div class="feature-card">
         <div class="feature-icon">
-          <i class="fas fa-leaf"></i>
+          <i class="fas fa-history"></i>
         </div>
-        <h3>Miljø</h3>
-        <p>Vi jobber for et renere og grønnere nærmiljø gjennom dugnader, miljøinitiativ og bevisstgjøring.</p>
+        <h3>Tradisjoner</h3>
+        <p>Vi holder lokale tradisjoner i hevd og skaper nye, fra det årlige Adventstreffet til Granavass-stafetten.</p>
       </div>
       <div class="feature-card">
         <div class="feature-icon">
           <i class="fas fa-home"></i>
         </div>
         <h3>Trivsel</h3>
-        <p>Vi arbeider for å gjøre Vuddu til et enda bedre sted å bo for alle aldersgrupper.</p>
+        <p>Vi arbeider for å gjøre Vuddu-grenda til et enda bedre sted å bo for alle aldersgrupper.</p>
       </div>
     </div>
   </div>
@@ -55,24 +55,24 @@ layout: landing
     </div>
     <div class="activities-grid">
       <div class="activity-card">
-        <div class="activity-image" style="background-image: url('https://images.unsplash.com/photo-1511632765486-a01980e01a18?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80');"></div>
+        <div class="activity-image" style="background-image: url('https://images.unsplash.com/photo-1543589077-47d81606c1bf?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80');"></div>
         <div class="activity-content">
-          <h3>Sommerfest</h3>
-          <p>Vår årlige sommerfest samler hele nabolaget til grilling, aktiviteter og hygge for store og små.</p>
+          <h3>Adventstreff</h3>
+          <p>Vårt årlige Adventstreff er en kjær tradisjon som samler hele bygda i førjulstiden. I begynnelsen av desember skaper vi en magisk kveld med julegrantenning, gløgg, pepperkaker, og aktiviteter for store og små. Barna kan møte julenissen, lage julepynt i vårt kreative verksted, og delta i julesangkor. Arrangementet avsluttes med et stemningsfullt fakkeltoget gjennom bygda. En perfekt anledning til å komme i julestemning sammen med naboer og venner!</p>
         </div>
       </div>
       <div class="activity-card">
-        <div class="activity-image" style="background-image: url('https://images.unsplash.com/photo-1556905055-8f358a7a47b2?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80');"></div>
+        <div class="activity-image" style="background-image: url('https://images.unsplash.com/photo-1533560904424-a0c61dc306fc?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80');"></div>
         <div class="activity-content">
-          <h3>Dugnad</h3>
-          <p>To ganger i året samles vi til dugnad for å holde området rent og pent, og avsluttes med sosialt samvær.</p>
+          <h3>Granavass-stafetten</h3>
+          <p>En stolt tradisjon siden 1933! Granavass-stafetten er bygdas eldste arrangement og har blitt avholdt nesten årlig i over 90 år. Stafetten går rundt Granavatnet og samler lag fra hele distriktet. Med mange etapper og variert terreng er dette et høydepunkt for både deltakere og tilskuere. Etter løpet samles alle til premieutdeling ved Granavatnet. Bli med på denne historiske idrettsfesten, enten som deltaker eller heiagjeng!</p>
         </div>
       </div>
       <div class="activity-card">
-        <div class="activity-image" style="background-image: url('https://images.unsplash.com/photo-1528605248644-14dd04022da1?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80');"></div>
+        <div class="activity-image" style="background-image: url('https://images.unsplash.com/photo-1526976668912-1a811878dd37?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80');"></div>
         <div class="activity-content">
-          <h3>Aktiviteter for barn</h3>
-          <p>Vi arrangerer jevnlig aktiviteter for barn og unge, fra idrettsarrangementer til kreative verksteder.</p>
+          <h3>Aktiviteter for store og små</h3>
+          <p>Vi arrangerer jevnlig aktiviteter for alle aldersgrupper, fra juletrefest til pubkvelder og kulturkvelder med lokale artister.</p>
         </div>
       </div>
     </div>
@@ -114,8 +114,11 @@ layout: landing
 <section id="bli-medlem" class="section cta">
   <div class="container">
     <h2>Bli medlem i dag!</h2>
-    <p>Ønsker du å bli en del av et aktivt lokalmiljø og bidra til å gjøre Vuddu til et enda bedre sted å bo? Bli medlem i Vuddu Grendalag i dag!</p>
-    <a href="#kontakt" class="btn">Meld deg inn nå</a>
+    <p>Sammen står vi sterkere! For kun 200 kr i året for enkeltmedlemskap eller 300 kr for hele familien får du stemmerett på årsmøtet, rabatter på arrangementer, og muligheten til å forme fremtiden til Vuddu-grenda. Ditt medlemskap støtter alle våre aktiviteter og tradisjoner.</p>
+    <div style="display: flex; gap: 15px; justify-content: center; flex-wrap: wrap; margin-top: 25px;">
+      <a href="#kontakt" class="btn">Meld deg inn nå</a>
+      <a href="/om-oss/" class="btn btn-secondary">Les mer om medlemskap</a>
+    </div>
   </div>
 </section>
 
