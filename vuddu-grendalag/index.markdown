@@ -62,7 +62,7 @@ layout: landing
         </div>
       </div>
       <div class="activity-card">
-        <div class="activity-image" style="background-image: url('https://images.unsplash.com/photo-1533560904424-a0c61dc306fc?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80');"></div>
+        <div class="activity-image" style="background-image: url('https://plus.unsplash.com/premium_photo-1726652205176-f1fb8eceae73?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1350&q=80');"></div>
         <div class="activity-content">
           <h3>Granavass-stafetten</h3>
           <p>En stolt tradisjon siden 1933! Granavass-stafetten er bygdas eldste arrangement og har blitt avholdt nesten årlig i over 90 år. Stafetten går rundt Granavatnet og samler lag fra hele distriktet. Med mange etapper og variert terreng er dette et høydepunkt for både deltakere og tilskuere. Etter løpet samles alle til premieutdeling ved Granavatnet. Bli med på denne historiske idrettsfesten, enten som deltaker eller heiagjeng!</p>
@@ -91,7 +91,7 @@ layout: landing
           <i class="fas fa-calendar-alt"></i>
         </div>
         <h3>Arrangementer</h3>
-        <p>Gratis eller rabattert deltakelse på alle våre arrangementer og aktiviteter.</p>
+        <p>Støtte alle våre arrangementer og aktiviteter, slik at vi kan arrangere enda mer for alle i Vuddu-grenda.</p>
       </div>
       <div class="feature-card">
         <div class="feature-icon">
@@ -104,8 +104,8 @@ layout: landing
         <div class="feature-icon">
           <i class="fas fa-store"></i>
         </div>
-        <h3>Lokale rabatter</h3>
-        <p>Rabattavtaler med lokale butikker og tjenesteleverandører for alle våre medlemmer.</p>
+        <h3>Rabatt på leie av Malihaugen</h3>
+        <p>Rabatt på leie av Malihaugen for sosiale arrangementer. Pluss medlemmer kan leie stoler og bord fra Malihaugen gratis.</p>
       </div>
     </div>
   </div>
@@ -114,7 +114,7 @@ layout: landing
 <section id="bli-medlem" class="section cta">
   <div class="container">
     <h2>Bli medlem i dag!</h2>
-    <p>Sammen står vi sterkere! For kun 200 kr i året for enkeltmedlemskap eller 300 kr for hele familien får du stemmerett på årsmøtet, rabatter på arrangementer, og muligheten til å forme fremtiden til Vuddu-grenda. Ditt medlemskap støtter alle våre aktiviteter og tradisjoner.</p>
+    <p>Sammen står vi sterkere! For kun 250 kr i året for enkeltmedlemskap eller 500 kr for hele familien får du stemmerett på årsmøtet, rabatter på arrangementer, og muligheten til å forme fremtiden til Vuddu-grenda. Ditt medlemskap støtter alle våre aktiviteter og tradisjoner. Og det er ikke noe problem om du bor utenfor Vuddu-grenda, alle kan bli medlemmer uansett hvor de bor.</p>
     <div style="display: flex; gap: 15px; justify-content: center; flex-wrap: wrap; margin-top: 25px;">
       <a href="#kontakt" class="btn">Meld deg inn nå</a>
       <a href="/om-oss/" class="btn btn-secondary">Les mer om medlemskap</a>
